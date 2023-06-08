@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#https://qiita.com/taashi/items/07bf75201a074e208ae5
+
 import sys
 import openpyxl
 from googletrans import Translator
